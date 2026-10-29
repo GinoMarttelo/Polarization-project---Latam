@@ -1,0 +1,56 @@
+Political reason evaluation in Argentina and Colombia
+AsPredicted #317907
+Pre-registered 16 October 2026 at 09:06 PT. All three authors approved on 16 October 2026.
+Status verified in authenticated AsPredicted on 19 October 2026: approved; private, not publicly released.
+Authors: Samuel Murray, Antonella Giordano Furchi, Gino Carmona.
+This is a local transcription of the registered answers, not an AsPredicted-issued PDF.
+Access the private registration through https://aspredicted.org/see_list.php
+Section labels below are abbreviated. Answer text follows the verified registration.
+
+1 Data collection
+
+No, no data have been collected for this study yet.
+
+2 Research questions
+
+Do reason ratings vary with issue agreement and actual author-camp relationship? Are favorable evaluations of principal-opponent reasons associated with greater perceived opponent rationality, greater warmth, and less affective polarization, adjusting for own-camp evaluations? These four families comprise five primary tests per country; tests are two-sided.
+
+3 Outcomes and measures
+
+Reason quality ranges from 0 (very bad reason) to 100 (very good reason). Each evaluator rates 20 reasons. Qown and Qopp are their unweighted mean ratings of reasons from their own and principal opposing camps, respectively; each requires at least one rating. Other Argentine camps do not enter these means.
+
+Other primary outcomes concern the principal opponent: warmth (0-100); rationality (7 minus the mean of at least five of six negative competence/rationality items, each 1-6); and polarization, the mean of z(-warmth), z(anger), and z(-understanding). Anger and understanding use 0-6. Require all three polarization components; standardize within country among eligible named-opponent evaluators with all three components. Warmth and polarization overlap; they are not independent confirmations.
+
+4 Design and assignment
+
+Recruit adult residents through separate Spanish surveys. Uniformly sample 20 distinct reasons without replacement from all country reasons on topics with clear agreement (5-7) or disagreement (1-3). Neutral (4), unsure/refusal (8), and missing topics are ineligible. Require 20 eligible reasons, without a topic minimum or quotas. Topics/authors may repeat. Display the statement, position, and reason; hide author camp. There is no between-participant treatment assignment.
+
+Code same_side when evaluator and reason positions agree. Colombia uses own/opposite government alignment. Argentina retains the four original camps and codes own, named opposing, or other camp. Todos por igual/Ninguno have no unique opponent: their comparison target is Kirchnerista/Peronista or Libertario, excluding own and equally randomized when both remain. Analyze these respondents separately. Randomize post-group order.
+
+5 Analyses
+
+Analyze countries separately. Primary populations are eligible Colombians and Argentines naming one opposing camp distinct from their own. Fit rating regressions with evaluator and reason fixed effects, same_side, opponent-camp indicator, Argentine other-camp indicator (own reference), and centered order. Primary contrasts are same versus other side and own versus named-opponent camp, mutually adjusted. Topic, semantic side, and stable evaluator/author characteristics are absorbed by the fixed effects.
+
+Cluster rating-model CRV1 standard errors by evaluator and author, subtracting the evaluator-author intersection; use finite-parameter correction (n-1)/(n-K), including absorbed-effect rank K, and t reference df=min(evaluators,authors)-1. For each post outcome, regress its score on Qopp, Qown, evaluator camp, age, identification strength, the same-side fraction within each quality mean, and separate topic fractions within each mean (omit the alphabetically first topic). The Qopp coefficient is primary; use HC3 errors and residual t df.
+
+Holm-adjust all ten primary p-values together at .05; report estimates and unadjusted 95% intervals. Interactions and topic-specific contrasts are secondary. Use each model's available cases, without imputation. Missing a quality mean or post measure excludes only the relevant model, not the participant's other eligible analyses.
+
+Remove redundant nuisance columns deterministically; retain identified focal contrasts. Absorb fixed effects to tolerance 1e-9 (maximum 1,000 iterations). Report nonconvergence, unidentified contrasts, or nonpositive focal variances as estimation failures, assigning p=1 in the primary family. Do not select alternative primary specifications after inspecting results.
+
+6 Exclusions and outliers
+
+Exclude previews/tests, nonconsent, failed age/residence eligibility, incomplete surveys, records lacking 20 valid assigned ratings, and provider-confirmed fraud. For repeated verified participant IDs retain the earliest eligible completion (response ID breaks ties). Discard unassigned/duplicate rows and ratings outside 0-100; retain the earliest valid participant-reason row.
+
+Exclude honesty option 3 (did not take the study seriously) and assistance options 3/4 (outside help to decide ratings). Retain translation/comprehension help, unsure/refused assistance reports, low identification, Todos por igual/Ninguno, endpoints, invariant ratings, and fast responses. Other honesty/attention concerns are sensitivity flags.
+
+7 Sample size and stopping
+
+We will recruit 1,500 analyzable participants per country, balancing power and resources. Qualifying cases pass the exclusions and have valid own and principal opposing camps, both quality means, all primary post-survey scores, and all covariates. Other eligible respondents remain in applicable analyses; total recruitment may exceed 1,500.
+
+Simulations used the actual corpora, pilot profiles, random draws of 20 eligible reasons, and variance assumptions informed by US/Brazil data. Each country/scenario included 500 realizations across 25 assignment draws; stress scenarios added camp imbalance, fewer clear stances, and greater variability. At two-sided alpha .005 (the first Holm threshold for ten tests), power was 81-88% for observed partial r=.10 and 95-98% for r=.12 across rationality, warmth, and polarization. Five-point camp gaps (0-100 scale) had 97-100% power; a three-point gap had 51% in the Argentine stress scenario. These conditional sensitivity estimates do not establish expected effects or guarantee 90% power. We will archive the report and code.
+
+We will stop separately at 1,500 qualifying cases, using only eligibility and data availability. We will honor started sessions and report overshoot. The fixed stopping rule will not change after inspecting interim effects, p-values, or reason coverage. No quotas or minimum ratings per reason apply.
+
+8 Anything else
+
+NA

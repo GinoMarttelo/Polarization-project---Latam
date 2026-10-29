@@ -1,0 +1,1483 @@
+{
+  "AR_primary_rating": {
+    "diagnostics": {
+      "evaluators": 916,
+      "authors": 674,
+      "reasons": 2633,
+      "parameters": 3552,
+      "components": 1,
+      "df": 673,
+      "iterations": 21,
+      "change": 7.134808299724682e-10,
+      "dropped": [],
+      "min_variance": 0.001958451084110822
+    },
+    "verification": {
+      "dummy_coefficient_error": 5.666578317686799e-13
+    },
+    "error": null
+  },
+  "AR_primary_warmth": {
+    "details": {
+      "outcome": "warmth",
+      "n": 888,
+      "parameters": 46,
+      "df": 842,
+      "max_leverage": 0.15782656162162947,
+      "dropped": [],
+      "coefficient_error": 7.1729289174982114e-12,
+      "covariance_error": 6.971845323278103e-11
+    },
+    "error": null
+  },
+  "AR_primary_polarization": {
+    "details": {
+      "outcome": "polarization",
+      "n": 882,
+      "parameters": 46,
+      "df": 836,
+      "max_leverage": 0.15957863801185262,
+      "dropped": [],
+      "coefficient_error": 9.6200825083769814e-14,
+      "covariance_error": 8.0283002468206632e-14
+    },
+    "error": null
+  },
+  "AR_primary_anger": {
+    "details": {
+      "outcome": "anger",
+      "n": 900,
+      "parameters": 46,
+      "df": 854,
+      "max_leverage": 0.1529627818864944,
+      "dropped": [],
+      "coefficient_error": 2.8022029141538951e-13,
+      "covariance_error": 1.5287771049088406e-13
+    },
+    "error": null
+  },
+  "AR_primary_understanding": {
+    "details": {
+      "outcome": "understanding",
+      "n": 899,
+      "parameters": 46,
+      "df": 853,
+      "max_leverage": 0.15297230603892184,
+      "dropped": [],
+      "coefficient_error": 3.5016434196677437e-13,
+      "covariance_error": 4.2743586448068527e-13
+    },
+    "error": null
+  },
+  "AR_primary_rationality": {
+    "details": {
+      "outcome": "rationality",
+      "n": 872,
+      "parameters": 46,
+      "df": 826,
+      "max_leverage": 0.15669079118515342,
+      "dropped": [],
+      "coefficient_error": 3.730349362740526e-13,
+      "covariance_error": 3.5121905384016827e-13
+    },
+    "error": null
+  },
+  "AR_primary_character": {
+    "details": {
+      "outcome": "character",
+      "n": 872,
+      "parameters": 46,
+      "df": 826,
+      "max_leverage": 0.1568733603289309,
+      "dropped": [],
+      "coefficient_error": 3.3996416792803075e-13,
+      "covariance_error": 2.0095036745715333e-13
+    },
+    "error": null
+  },
+  "AR_primary_evidence": {
+    "details": {
+      "outcome": "evidence",
+      "n": 877,
+      "parameters": 46,
+      "df": 831,
+      "max_leverage": 0.15680098057603864,
+      "dropped": [],
+      "coefficient_error": 1.1945999744966684e-13,
+      "covariance_error": 2.152167333235866e-13
+    },
+    "error": null
+  },
+  "AR_primary_engagement": {
+    "details": {
+      "outcome": "engagement",
+      "n": 879,
+      "parameters": 46,
+      "df": 833,
+      "max_leverage": 0.15612472182425052,
+      "dropped": [],
+      "coefficient_error": 4.0090153419214403e-13,
+      "covariance_error": 3.4361402612148595e-13
+    },
+    "error": null
+  },
+  "AR_topic_Abortion": {
+    "details": {
+      "evaluators": 570,
+      "authors": 135,
+      "reasons": 135,
+      "parameters": 708,
+      "components": 1,
+      "df": 134,
+      "iterations": 210,
+      "change": 9.4090513158562317e-10,
+      "dropped": [],
+      "min_variance": 0.20124886117923219
+    },
+    "error": null
+  },
+  "AR_topic_Compromise": {
+    "details": {
+      "evaluators": 500,
+      "authors": 132,
+      "reasons": 132,
+      "parameters": 634,
+      "components": 2,
+      "df": 131,
+      "iterations": 221,
+      "change": 9.8275174965480004e-10,
+      "dropped": [],
+      "min_variance": 0.11690141090083779
+    },
+    "error": null
+  },
+  "AR_topic_ESI": {
+    "details": {
+      "evaluators": 618,
+      "authors": 141,
+      "reasons": 141,
+      "parameters": 762,
+      "components": 1,
+      "df": 140,
+      "iterations": 175,
+      "change": 9.7132257792509336e-10,
+      "dropped": [],
+      "min_variance": 0.13427192212924707
+    },
+    "error": null
+  },
+  "AR_topic_Environ_law": {
+    "details": {
+      "evaluators": 513,
+      "authors": 107,
+      "reasons": 107,
+      "parameters": 623,
+      "components": 1,
+      "df": 106,
+      "iterations": 397,
+      "change": 9.9468780125705617e-10,
+      "dropped": [],
+      "min_variance": 0.3602142352185429
+    },
+    "error": null
+  },
+  "AR_topic_Gov_crime": {
+    "details": {
+      "evaluators": 662,
+      "authors": 171,
+      "reasons": 171,
+      "parameters": 836,
+      "components": 1,
+      "df": 170,
+      "iterations": 120,
+      "change": 9.6291774553947107e-10,
+      "dropped": [],
+      "min_variance": 0.086057170275899347
+    },
+    "error": null
+  },
+  "AR_topic_Gov_economic": {
+    "details": {
+      "evaluators": 591,
+      "authors": 151,
+      "reasons": 151,
+      "parameters": 745,
+      "components": 1,
+      "df": 150,
+      "iterations": 595,
+      "change": 9.754961000868554e-10,
+      "dropped": [],
+      "min_variance": 0.25138486959997314
+    },
+    "error": null
+  },
+  "AR_topic_Gov_regulation": {
+    "details": {
+      "evaluators": 426,
+      "authors": 104,
+      "reasons": 104,
+      "parameters": 531,
+      "components": 3,
+      "df": 103,
+      "iterations": 344,
+      "change": 9.8189149066492792e-10,
+      "dropped": [],
+      "min_variance": 0.47339750001085051
+    },
+    "error": null
+  },
+  "AR_topic_Gov_waste": {
+    "details": {
+      "evaluators": 506,
+      "authors": 124,
+      "reasons": 124,
+      "parameters": 631,
+      "components": 3,
+      "df": 123,
+      "iterations": 252,
+      "change": 9.4501739766883475e-10,
+      "dropped": [],
+      "min_variance": 0.23234513273388188
+    },
+    "error": null
+  },
+  "AR_topic_Homosexuality": {
+    "details": {
+      "evaluators": 558,
+      "authors": 139,
+      "reasons": 139,
+      "parameters": 700,
+      "components": 1,
+      "df": 138,
+      "iterations": 281,
+      "change": 9.5707441971626395e-10,
+      "dropped": [],
+      "min_variance": 0.21351492953417445
+    },
+    "error": null
+  },
+  "AR_topic_Immigrant": {
+    "details": {
+      "evaluators": 575,
+      "authors": 150,
+      "reasons": 150,
+      "parameters": 728,
+      "components": 1,
+      "df": 149,
+      "iterations": 201,
+      "change": 9.3887475571818868e-10,
+      "dropped": [],
+      "min_variance": 0.092634878771110513
+    },
+    "error": null
+  },
+  "AR_topic_Mil_pri": {
+    "details": {
+      "evaluators": 565,
+      "authors": 144,
+      "reasons": 144,
+      "parameters": 711,
+      "components": 2,
+      "df": 143,
+      "iterations": 173,
+      "change": 9.6945029781636549e-10,
+      "dropped": [],
+      "min_variance": 0.14212769346950063
+    },
+    "error": null
+  },
+  "AR_topic_Mil_strength": {
+    "details": {
+      "evaluators": 535,
+      "authors": 145,
+      "reasons": 145,
+      "parameters": 680,
+      "components": 4,
+      "df": 144,
+      "iterations": 264,
+      "change": 9.7437968804570119e-10,
+      "dropped": [],
+      "min_variance": 0.17386710340115102
+    },
+    "error": null
+  },
+  "AR_topic_Police": {
+    "details": {
+      "evaluators": 612,
+      "authors": 149,
+      "reasons": 149,
+      "parameters": 764,
+      "components": 1,
+      "df": 148,
+      "iterations": 374,
+      "change": 9.5967920456769495e-10,
+      "dropped": [],
+      "min_variance": 0.15070561838871652
+    },
+    "error": null
+  },
+  "AR_topic_Police_gun": {
+    "details": {
+      "evaluators": 643,
+      "authors": 171,
+      "reasons": 171,
+      "parameters": 816,
+      "components": 2,
+      "df": 170,
+      "iterations": 148,
+      "change": 9.8885166721629503e-10,
+      "dropped": [],
+      "min_variance": 0.098497980561047749
+    },
+    "error": null
+  },
+  "AR_topic_Privatize_soe": {
+    "details": {
+      "evaluators": 509,
+      "authors": 132,
+      "reasons": 132,
+      "parameters": 643,
+      "components": 2,
+      "df": 131,
+      "iterations": 259,
+      "change": 9.6552987827180914e-10,
+      "dropped": [],
+      "min_variance": 0.32305732002879256
+    },
+    "error": null
+  },
+  "AR_topic_Protest_force": {
+    "details": {
+      "evaluators": 624,
+      "authors": 148,
+      "reasons": 148,
+      "parameters": 774,
+      "components": 2,
+      "df": 147,
+      "iterations": 220,
+      "change": 9.5056407189986203e-10,
+      "dropped": [],
+      "min_variance": 0.12546548697026627
+    },
+    "error": null
+  },
+  "AR_topic_Social_media": {
+    "details": {
+      "evaluators": 358,
+      "authors": 123,
+      "reasons": 123,
+      "parameters": 483,
+      "components": 2,
+      "df": 122,
+      "iterations": 493,
+      "change": 9.7210239857759007e-10,
+      "dropped": [],
+      "min_variance": 0.80250112173807042
+    },
+    "error": null
+  },
+  "AR_topic_Transgender": {
+    "details": {
+      "evaluators": 500,
+      "authors": 122,
+      "reasons": 122,
+      "parameters": 624,
+      "components": 2,
+      "df": 121,
+      "iterations": 312,
+      "change": 9.6611703614793778e-10,
+      "dropped": [],
+      "min_variance": 0.38719392017547555
+    },
+    "error": null
+  },
+  "AR_topic_Wealth_tax": {
+    "details": {
+      "evaluators": 555,
+      "authors": 145,
+      "reasons": 145,
+      "parameters": 702,
+      "components": 2,
+      "df": 144,
+      "iterations": 439,
+      "change": 9.7269476029773951e-10,
+      "dropped": [],
+      "min_variance": 0.17970432271987272
+    },
+    "error": null
+  },
+  "AR_attention": {
+    "rating": {
+      "details": {
+        "evaluators": 756,
+        "authors": 674,
+        "reasons": 2626,
+        "parameters": 3385,
+        "components": 1,
+        "df": 673,
+        "iterations": 23,
+        "change": 7.4221873092028545e-10,
+        "dropped": [],
+        "min_variance": 0.0026402592163876468
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 736,
+        "parameters": 46,
+        "df": 690,
+        "max_leverage": 0.18040262120589232,
+        "dropped": [],
+        "coefficient_error": 6.283862319378386e-13,
+        "covariance_error": 1.676991878696299e-13
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 740,
+        "parameters": 46,
+        "df": 694,
+        "max_leverage": 0.18708829687849815,
+        "dropped": [],
+        "coefficient_error": 3.2756020118540619e-12,
+        "covariance_error": 2.3248958314070478e-11
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 736,
+        "parameters": 46,
+        "df": 690,
+        "max_leverage": 0.18912454251105287,
+        "dropped": [],
+        "coefficient_error": 1.5099033134902129e-14,
+        "covariance_error": 1.5376588891058418e-14
+      },
+      "error": null
+    }
+  },
+  "AR_speed_invariant": {
+    "rating": {
+      "details": {
+        "evaluators": 881,
+        "authors": 674,
+        "reasons": 2631,
+        "parameters": 3515,
+        "components": 1,
+        "df": 673,
+        "iterations": 22,
+        "change": 3.3328761972484244e-10,
+        "dropped": [],
+        "min_variance": 0.0020977790785863468
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 843,
+        "parameters": 46,
+        "df": 797,
+        "max_leverage": 0.16295516273917604,
+        "dropped": [],
+        "coefficient_error": 1.7477685965161527e-13,
+        "covariance_error": 2.9626301412122302e-13
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 856,
+        "parameters": 46,
+        "df": 810,
+        "max_leverage": 0.165772456245559,
+        "dropped": [],
+        "coefficient_error": 3.4958702599396929e-12,
+        "covariance_error": 9.964651326299645e-11
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 850,
+        "parameters": 46,
+        "df": 804,
+        "max_leverage": 0.16769989410949554,
+        "dropped": [],
+        "coefficient_error": 7.3996364591266683e-14,
+        "covariance_error": 6.1173288656846125e-14
+      },
+      "error": null
+    }
+  },
+  "AR_categorical_age": {
+    "rating": {
+      "details": {
+        "evaluators": 916,
+        "authors": 674,
+        "reasons": 2633,
+        "parameters": 3552,
+        "components": 1,
+        "df": 673,
+        "iterations": 21,
+        "change": 7.134808299724682e-10,
+        "dropped": [],
+        "min_variance": 0.001958451084110822
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 872,
+        "parameters": 50,
+        "df": 822,
+        "max_leverage": 0.15834073649613076,
+        "dropped": [],
+        "coefficient_error": 1.3944401189291966e-13,
+        "covariance_error": 8.4487972173974413e-14
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 888,
+        "parameters": 50,
+        "df": 838,
+        "max_leverage": 0.16181215075049851,
+        "dropped": [],
+        "coefficient_error": 8.6970430857036263e-12,
+        "covariance_error": 6.5142558014485985e-11
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 882,
+        "parameters": 50,
+        "df": 832,
+        "max_leverage": 0.16190985683891757,
+        "dropped": [],
+        "coefficient_error": 8.992806499463768e-14,
+        "covariance_error": 6.8681171860873746e-14
+      },
+      "error": null
+    }
+  },
+  "CO_primary_rating": {
+    "diagnostics": {
+      "evaluators": 1311,
+      "authors": 698,
+      "reasons": 2390,
+      "parameters": 3703,
+      "components": 1,
+      "df": 697,
+      "iterations": 18,
+      "change": 3.4091129919033847e-10,
+      "dropped": [],
+      "min_variance": 0.0012718626230029261
+    },
+    "verification": {
+      "dummy_coefficient_error": 3.6148861681795097e-13
+    },
+    "error": null
+  },
+  "CO_primary_warmth": {
+    "details": {
+      "outcome": "warmth",
+      "n": 1269,
+      "parameters": 40,
+      "df": 1229,
+      "max_leverage": 0.22596761472451751,
+      "dropped": [],
+      "coefficient_error": 1.162803187071404e-11,
+      "covariance_error": 2.3239010715769837e-10
+    },
+    "error": null
+  },
+  "CO_primary_polarization": {
+    "details": {
+      "outcome": "polarization",
+      "n": 1261,
+      "parameters": 40,
+      "df": 1221,
+      "max_leverage": 0.22667587980285597,
+      "dropped": [],
+      "coefficient_error": 4.7906123512575505e-14,
+      "covariance_error": 1.2639195245967016e-13
+    },
+    "error": null
+  },
+  "CO_primary_anger": {
+    "details": {
+      "outcome": "anger",
+      "n": 1287,
+      "parameters": 40,
+      "df": 1247,
+      "max_leverage": 0.22384207432923622,
+      "dropped": [],
+      "coefficient_error": 1.2583267761101524e-12,
+      "covariance_error": 8.272826867994354e-13
+    },
+    "error": null
+  },
+  "CO_primary_understanding": {
+    "details": {
+      "outcome": "understanding",
+      "n": 1288,
+      "parameters": 40,
+      "df": 1248,
+      "max_leverage": 0.2243471915648925,
+      "dropped": [],
+      "coefficient_error": 1.1586287484988134e-12,
+      "covariance_error": 1.0816347817410588e-12
+    },
+    "error": null
+  },
+  "CO_primary_rationality": {
+    "details": {
+      "outcome": "rationality",
+      "n": 1223,
+      "parameters": 40,
+      "df": 1183,
+      "max_leverage": 0.23317704163427966,
+      "dropped": [],
+      "coefficient_error": 2.092548356813495e-12,
+      "covariance_error": 4.3512415892621448e-13
+    },
+    "error": null
+  },
+  "CO_primary_character": {
+    "details": {
+      "outcome": "character",
+      "n": 1227,
+      "parameters": 40,
+      "df": 1187,
+      "max_leverage": 0.23216178215336983,
+      "dropped": [],
+      "coefficient_error": 1.3207213100940862e-12,
+      "covariance_error": 4.9432680171435095e-13
+    },
+    "error": null
+  },
+  "CO_primary_evidence": {
+    "details": {
+      "outcome": "evidence",
+      "n": 1235,
+      "parameters": 40,
+      "df": 1195,
+      "max_leverage": 0.23131068341354033,
+      "dropped": [],
+      "coefficient_error": 6.5365768353586873e-13,
+      "covariance_error": 5.6554760874405474e-13
+    },
+    "error": null
+  },
+  "CO_primary_engagement": {
+    "details": {
+      "outcome": "engagement",
+      "n": 1243,
+      "parameters": 40,
+      "df": 1203,
+      "max_leverage": 0.22888757161134907,
+      "dropped": [],
+      "coefficient_error": 3.1592506388733455e-12,
+      "covariance_error": 8.6292084588990292e-13
+    },
+    "error": null
+  },
+  "CO_topic_Coca_glyphosate": {
+    "details": {
+      "evaluators": 865,
+      "authors": 149,
+      "reasons": 149,
+      "parameters": 1016,
+      "components": 1,
+      "df": 148,
+      "iterations": 124,
+      "change": 9.4538584302462919e-10,
+      "dropped": [],
+      "min_variance": 0.047983822444755075
+    },
+    "error": null
+  },
+  "CO_topic_Compromise": {
+    "details": {
+      "evaluators": 683,
+      "authors": 105,
+      "reasons": 105,
+      "parameters": 790,
+      "components": 1,
+      "df": 104,
+      "iterations": 166,
+      "change": 9.0909146877038438e-10,
+      "dropped": [],
+      "min_variance": 0.14040621519488652
+    },
+    "error": null
+  },
+  "CO_topic_FARC_accord": {
+    "details": {
+      "evaluators": 837,
+      "authors": 148,
+      "reasons": 148,
+      "parameters": 987,
+      "components": 1,
+      "df": 147,
+      "iterations": 300,
+      "change": 9.9714219079586828e-10,
+      "dropped": [],
+      "min_variance": 0.085467385674181717
+    },
+    "error": null
+  },
+  "CO_topic_Fracking": {
+    "details": {
+      "evaluators": 877,
+      "authors": 142,
+      "reasons": 142,
+      "parameters": 1021,
+      "components": 1,
+      "df": 141,
+      "iterations": 121,
+      "change": 9.3584517912859155e-10,
+      "dropped": [],
+      "min_variance": 0.065172963137139051
+    },
+    "error": null
+  },
+  "CO_topic_Gov_crime": {
+    "details": {
+      "evaluators": 827,
+      "authors": 129,
+      "reasons": 129,
+      "parameters": 958,
+      "components": 1,
+      "df": 128,
+      "iterations": 224,
+      "change": 9.2082869199867078e-10,
+      "dropped": [],
+      "min_variance": 0.08434331222186793
+    },
+    "error": null
+  },
+  "CO_topic_Immigrant": {
+    "details": {
+      "evaluators": 806,
+      "authors": 135,
+      "reasons": 135,
+      "parameters": 943,
+      "components": 1,
+      "df": 134,
+      "iterations": 133,
+      "change": 9.4756502644344209e-10,
+      "dropped": [],
+      "min_variance": 0.09867746367474603
+    },
+    "error": null
+  },
+  "CO_topic_JEP_abolish": {
+    "details": {
+      "evaluators": 822,
+      "authors": 146,
+      "reasons": 146,
+      "parameters": 970,
+      "components": 1,
+      "df": 145,
+      "iterations": 169,
+      "change": 9.6144958661170676e-10,
+      "dropped": [],
+      "min_variance": 0.10855577819922979
+    },
+    "error": null
+  },
+  "CO_topic_Marijuana": {
+    "details": {
+      "evaluators": 872,
+      "authors": 145,
+      "reasons": 145,
+      "parameters": 1019,
+      "components": 1,
+      "df": 144,
+      "iterations": 129,
+      "change": 9.4902818936759559e-10,
+      "dropped": [],
+      "min_variance": 0.056258285784999196
+    },
+    "error": null
+  },
+  "CO_topic_Mil_strength": {
+    "details": {
+      "evaluators": 824,
+      "authors": 143,
+      "reasons": 143,
+      "parameters": 969,
+      "components": 1,
+      "df": 142,
+      "iterations": 113,
+      "change": 8.5761675538975624e-10,
+      "dropped": [],
+      "min_variance": 0.071372097105895219
+    },
+    "error": null
+  },
+  "CO_topic_Min_wage": {
+    "details": {
+      "evaluators": 795,
+      "authors": 131,
+      "reasons": 131,
+      "parameters": 928,
+      "components": 1,
+      "df": 130,
+      "iterations": 136,
+      "change": 9.8334762554941335e-10,
+      "dropped": [],
+      "min_variance": 0.078082884469484568
+    },
+    "error": null
+  },
+  "CO_topic_Msm": {
+    "details": {
+      "evaluators": 885,
+      "authors": 153,
+      "reasons": 153,
+      "parameters": 1040,
+      "components": 1,
+      "df": 152,
+      "iterations": 106,
+      "change": 8.376188631586956e-10,
+      "dropped": [],
+      "min_variance": 0.04560456919917729
+    },
+    "error": null
+  },
+  "CO_topic_Oil_exploration": {
+    "details": {
+      "evaluators": 899,
+      "authors": 159,
+      "reasons": 159,
+      "parameters": 1059,
+      "components": 2,
+      "df": 158,
+      "iterations": 157,
+      "change": 9.2225604930717964e-10,
+      "dropped": [],
+      "min_variance": 0.063670867545370269
+    },
+    "error": null
+  },
+  "CO_topic_Paz_total": {
+    "details": {
+      "evaluators": 897,
+      "authors": 158,
+      "reasons": 158,
+      "parameters": 1057,
+      "components": 1,
+      "df": 157,
+      "iterations": 99,
+      "change": 8.5643847569372156e-10,
+      "dropped": [],
+      "min_variance": 0.070219989778427638
+    },
+    "error": null
+  },
+  "CO_topic_Police": {
+    "details": {
+      "evaluators": 804,
+      "authors": 117,
+      "reasons": 117,
+      "parameters": 923,
+      "components": 1,
+      "df": 116,
+      "iterations": 142,
+      "change": 8.6793683351515938e-10,
+      "dropped": [],
+      "min_variance": 0.08694612305761773
+    },
+    "error": null
+  },
+  "CO_topic_Protest_force": {
+    "details": {
+      "evaluators": 876,
+      "authors": 143,
+      "reasons": 143,
+      "parameters": 1021,
+      "components": 1,
+      "df": 142,
+      "iterations": 276,
+      "change": 9.4048642112623587e-10,
+      "dropped": [],
+      "min_variance": 0.075049618051556619
+    },
+    "error": null
+  },
+  "CO_topic_Social_media": {
+    "details": {
+      "evaluators": 764,
+      "authors": 148,
+      "reasons": 148,
+      "parameters": 914,
+      "components": 1,
+      "df": 147,
+      "iterations": 162,
+      "change": 9.5722407777998342e-10,
+      "dropped": [],
+      "min_variance": 0.072756161349506396
+    },
+    "error": null
+  },
+  "CO_topic_Wealth_tax": {
+    "details": {
+      "evaluators": 813,
+      "authors": 139,
+      "reasons": 139,
+      "parameters": 954,
+      "components": 1,
+      "df": 138,
+      "iterations": 87,
+      "change": 9.8916164148477037e-10,
+      "dropped": [],
+      "min_variance": 0.051849981785939352
+    },
+    "error": null
+  },
+  "CO_attention": {
+    "rating": {
+      "details": {
+        "evaluators": 945,
+        "authors": 698,
+        "reasons": 2390,
+        "parameters": 3337,
+        "components": 1,
+        "df": 697,
+        "iterations": 20,
+        "change": 5.1648996191033802e-10,
+        "dropped": [],
+        "min_variance": 0.0019630663429461557
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 905,
+        "parameters": 40,
+        "df": 865,
+        "max_leverage": 0.30087267248806626,
+        "dropped": [],
+        "coefficient_error": 3.1867841698840493e-12,
+        "covariance_error": 1.2321255127289987e-12
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 924,
+        "parameters": 40,
+        "df": 884,
+        "max_leverage": 0.29574895874805607,
+        "dropped": [],
+        "coefficient_error": 4.1788794646890892e-12,
+        "covariance_error": 6.5509198066138197e-10
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 920,
+        "parameters": 40,
+        "df": 880,
+        "max_leverage": 0.29588131713463484,
+        "dropped": [],
+        "coefficient_error": 1.8983425942309395e-13,
+        "covariance_error": 4.2636727481948355e-13
+      },
+      "error": null
+    }
+  },
+  "CO_speed_invariant": {
+    "rating": {
+      "details": {
+        "evaluators": 1237,
+        "authors": 698,
+        "reasons": 2390,
+        "parameters": 3629,
+        "components": 1,
+        "df": 697,
+        "iterations": 18,
+        "change": 5.0814463747883565e-10,
+        "dropped": [],
+        "min_variance": 0.0013601057380002645
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 1160,
+        "parameters": 40,
+        "df": 1120,
+        "max_leverage": 0.24520704786920489,
+        "dropped": [],
+        "coefficient_error": 2.4189539260532911e-12,
+        "covariance_error": 1.2931877790833823e-12
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 1200,
+        "parameters": 40,
+        "df": 1160,
+        "max_leverage": 0.23995591549969147,
+        "dropped": [],
+        "coefficient_error": 2.7498003873915877e-12,
+        "covariance_error": 3.8409098124247976e-10
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 1195,
+        "parameters": 40,
+        "df": 1155,
+        "max_leverage": 0.24021822371597243,
+        "dropped": [],
+        "coefficient_error": 5.1110504717399863e-13,
+        "covariance_error": 2.5639212974937209e-13
+      },
+      "error": null
+    }
+  },
+  "CO_categorical_age": {
+    "rating": {
+      "details": {
+        "evaluators": 1311,
+        "authors": 698,
+        "reasons": 2390,
+        "parameters": 3703,
+        "components": 1,
+        "df": 697,
+        "iterations": 18,
+        "change": 3.4091129919033847e-10,
+        "dropped": [],
+        "min_variance": 0.0012718626230029261
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 1223,
+        "parameters": 44,
+        "df": 1179,
+        "max_leverage": 0.23608919413694099,
+        "dropped": [],
+        "coefficient_error": 1.6076029396572267e-12,
+        "covariance_error": 4.4150794131780913e-13
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 1269,
+        "parameters": 44,
+        "df": 1225,
+        "max_leverage": 0.22914596476327176,
+        "dropped": [],
+        "coefficient_error": 6.9615424536095816e-12,
+        "covariance_error": 2.5094948341575218e-10
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 1261,
+        "parameters": 44,
+        "df": 1217,
+        "max_leverage": 0.22987706513575926,
+        "dropped": [],
+        "coefficient_error": 6.8828623356331775e-14,
+        "covariance_error": 1.1882161921050738e-13
+      },
+      "error": null
+    }
+  },
+  "AR_todos_por_igual": {
+    "rating": {
+      "details": {
+        "evaluators": 294,
+        "authors": 666,
+        "reasons": 2345,
+        "parameters": 2642,
+        "components": 1,
+        "df": 293,
+        "iterations": 50,
+        "change": 8.1191586787099368e-10,
+        "dropped": [],
+        "min_variance": 0.012385831340229273
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 265,
+        "parameters": 46,
+        "df": 219,
+        "max_leverage": 0.39002474805447507,
+        "dropped": [],
+        "coefficient_error": 2.0961010704922955e-13,
+        "covariance_error": 3.7059244561987725e-13
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 285,
+        "parameters": 46,
+        "df": 239,
+        "max_leverage": 0.36453707469296609,
+        "dropped": [],
+        "coefficient_error": 2.9309887850104133e-12,
+        "covariance_error": 2.3794655135134235e-10
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 281,
+        "parameters": 46,
+        "df": 235,
+        "max_leverage": 0.3864229654231317,
+        "dropped": [],
+        "coefficient_error": 4.8683279629813114e-14,
+        "covariance_error": 7.4940054162198066e-14
+      },
+      "error": null
+    }
+  },
+  "AR_ninguno": {
+    "rating": {
+      "details": {
+        "evaluators": 115,
+        "authors": 615,
+        "reasons": 1526,
+        "parameters": 1644,
+        "components": 1,
+        "df": 114,
+        "iterations": 121,
+        "change": 9.2510532567757764e-10,
+        "dropped": [],
+        "min_variance": 0.11733297883211795
+      },
+      "error": null
+    },
+    "rationality": {
+      "details": {
+        "outcome": "rationality",
+        "n": 89,
+        "parameters": 46,
+        "df": 43,
+        "max_leverage": 0.80756838992311608,
+        "dropped": [],
+        "coefficient_error": 6.2883032114768866e-13,
+        "covariance_error": 8.0859763329499401e-12
+      },
+      "error": null
+    },
+    "warmth": {
+      "details": {
+        "outcome": "warmth",
+        "n": 100,
+        "parameters": 46,
+        "df": 54,
+        "max_leverage": 0.79088116142013909,
+        "dropped": [],
+        "coefficient_error": 5.6417093219351955e-12,
+        "covariance_error": 1.1732481652870774e-09
+      },
+      "error": null
+    },
+    "polarization": {
+      "details": {
+        "outcome": "polarization",
+        "n": 98,
+        "parameters": 46,
+        "df": 52,
+        "max_leverage": 0.79099838438416858,
+        "dropped": [],
+        "coefficient_error": 1.0169642905566434e-13,
+        "covariance_error": 5.1536552803099767e-13
+      },
+      "error": null
+    }
+  },
+  "AR_factorial_2x2": {
+    "formula": "rating ~ stance * camp + order + (1 | pid) + (1 | rid)",
+    "n": 9247,
+    "evaluators": 916,
+    "reasons": 2378,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 39.846697281497555,
+        "sdcor": 6.3124240416418127
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 150.85872964441762,
+        "sdcor": 12.282456173112022
+      },
+      {
+        "grp": "Residual",
+        "vcov": 810.94120148583693,
+        "sdcor": 28.477029365540165
+      }
+    ],
+    "log_likelihood": -44759.79798415117,
+    "df_method": "Satterthwaite"
+  },
+  "AR_demographic": {
+    "formula": ["rating ~ stance * camp + order + age + strength + factor(own) + ", "    (1 | pid) + (1 | rid)"],
+    "n": 9147,
+    "evaluators": 907,
+    "reasons": 2378,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 40.620908328558343,
+        "sdcor": 6.373453406792768
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 140.73189032885534,
+        "sdcor": 11.863047261511493
+      },
+      {
+        "grp": "Residual",
+        "vcov": 808.07156376122691,
+        "sdcor": 28.426599581399582
+      }
+    ],
+    "log_likelihood": -44245.003660908471,
+    "df_method": "Satterthwaite"
+  },
+  "AR_author": {
+    "formula": ["rating ~ stance * camp + order + (1 | pid) + (1 | rid) + (1 | ", "    aid)"],
+    "n": 9247,
+    "evaluators": 916,
+    "reasons": 2378,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 34.050881681005102,
+        "sdcor": 5.8353133318618893
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 150.86449146702944,
+        "sdcor": 12.282690725856018
+      },
+      {
+        "grp": "aid",
+        "var1": "(Intercept)",
+        "vcov": 6.0532548557902137,
+        "sdcor": 2.460336329811478
+      },
+      {
+        "grp": "Residual",
+        "vcov": 810.72594464940119,
+        "sdcor": 28.473249632758836
+      }
+    ],
+    "log_likelihood": -44758.691711369938,
+    "df_method": "Satterthwaite"
+  },
+  "AR_full_2x3": {
+    "formula": "rating ~ stance * camp + order + (1 | pid) + (1 | rid)",
+    "n": 18320,
+    "evaluators": 916,
+    "reasons": 2633,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 35.874637057321813,
+        "sdcor": 5.9895439774094497
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 154.60852687437153,
+        "sdcor": 12.434167719408144
+      },
+      {
+        "grp": "Residual",
+        "vcov": 798.49261860380034,
+        "sdcor": 28.257611693202247
+      }
+    ],
+    "log_likelihood": -88274.353392251287,
+    "df_method": "Satterthwaite"
+  },
+  "AR_FE_2x2": {
+    "diagnostics": {
+      "evaluators": 916,
+      "authors": 666,
+      "reasons": 2378,
+      "parameters": 3297,
+      "components": 1,
+      "df": 665,
+      "iterations": 62,
+      "change": 8.2232176623620035e-10,
+      "dropped": [],
+      "min_variance": 0.006273714056609328
+    },
+    "verification": {
+      "dummy_coefficient_error": 1.6040502259784262e-12
+    }
+  },
+  "CO_factorial_2x2": {
+    "formula": "rating ~ stance * camp + order + (1 | pid) + (1 | rid)",
+    "n": 26220,
+    "evaluators": 1311,
+    "reasons": 2390,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 25.397423707704583,
+        "sdcor": 5.0395856682573203
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 215.5691304518771,
+        "sdcor": 14.682272659635398
+      },
+      {
+        "grp": "Residual",
+        "vcov": 743.69683979335048,
+        "sdcor": 27.270805631542139
+      }
+    ],
+    "log_likelihood": -125501.49953129845,
+    "df_method": "Satterthwaite"
+  },
+  "CO_demographic": {
+    "formula": ["rating ~ stance * camp + order + age + strength + factor(own) + ", "    (1 | pid) + (1 | rid)"],
+    "n": 25840,
+    "evaluators": 1292,
+    "reasons": 2390,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 26.332741914778861,
+        "sdcor": 5.1315438139782907
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 191.22497540329331,
+        "sdcor": 13.828411890137396
+      },
+      {
+        "grp": "Residual",
+        "vcov": 745.51096562478699,
+        "sdcor": 27.304046689543785
+      }
+    ],
+    "log_likelihood": -123658.81072040988,
+    "df_method": "Satterthwaite"
+  },
+  "CO_author": {
+    "formula": ["rating ~ stance * camp + order + (1 | pid) + (1 | rid) + (1 | ", "    aid)"],
+    "n": 26220,
+    "evaluators": 1311,
+    "reasons": 2390,
+    "singular": false,
+    "convergence": null,
+    "random_effect_sd": [
+      {
+        "grp": "rid",
+        "var1": "(Intercept)",
+        "vcov": 22.142030489541309,
+        "sdcor": 4.7055319029352365
+      },
+      {
+        "grp": "pid",
+        "var1": "(Intercept)",
+        "vcov": 215.58112188406656,
+        "sdcor": 14.682681018263203
+      },
+      {
+        "grp": "aid",
+        "var1": "(Intercept)",
+        "vcov": 3.2680657470083827,
+        "sdcor": 1.8077792307160692
+      },
+      {
+        "grp": "Residual",
+        "vcov": 743.68001436304746,
+        "sdcor": 27.27049714183897
+      }
+    ],
+    "log_likelihood": -125499.34884134709,
+    "df_method": "Satterthwaite"
+  },
+  "CO_FE_2x2": {
+    "diagnostics": {
+      "evaluators": 1311,
+      "authors": 698,
+      "reasons": 2390,
+      "parameters": 3704,
+      "components": 1,
+      "df": 697,
+      "iterations": 18,
+      "change": 3.4091129919033847e-10,
+      "dropped": [],
+      "min_variance": 0.0012721954831055706
+    },
+    "verification": {
+      "dummy_coefficient_error": 1.4486190025309043e-12
+    }
+  }
+}

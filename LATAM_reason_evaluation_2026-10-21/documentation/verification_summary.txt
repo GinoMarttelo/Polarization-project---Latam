@@ -1,0 +1,14 @@
+Verification completed 21 October 2026
+
+The package was extracted to a separate folder and the analysis was run using
+only the bundled input files. All 18 reference tables matched exactly, including
+sample counts, estimates, standard errors, confidence intervals, p-values, and
+figure data. Both figures were generated.
+
+The six inputs match their source files byte for byte. The launcher was also
+checked with its path variables unset, partly set, and fully set; it restored
+the previous environment and library paths correctly.
+
+Test environment: R 4.5.0 on macOS. See reference_R_session_info.txt for package
+versions. A fresh package installation and Windows/Linux execution were not
+tested; the installer and setup instructions are included.

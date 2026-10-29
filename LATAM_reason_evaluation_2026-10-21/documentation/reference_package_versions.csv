@@ -1,0 +1,12 @@
+package,version
+data.table,1.18.2.1
+jsonlite,2.0.0
+xml2,1.5.2
+Matrix,1.7.4
+sandwich,3.1.1
+lme4,1.1.38
+lmerTest,3.2.0
+emmeans,2.0.1
+ggplot2,4.0.2
+patchwork,1.3.2
+ragg,1.5.0
